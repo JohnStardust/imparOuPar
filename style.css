@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    text-align: center;
+    width: 400px;
+    margin: 50% auto;
+}
+
+main {
+    margin: auto;
+    max-width: 600px;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+button {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: #569cff;
+    border: 0px;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #4982d1;
+}
